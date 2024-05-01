@@ -1,0 +1,21 @@
+{
+  "Admin": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "Name": "shyam",
+      "Email": "ss",
+      "Password": "tt",
+      "id": 2
+    },
+    {
+      "Name": "rohit",
+      "Email": "rihit@gmail.com",
+      "Password": "12",
+      "id": 3
+    }
+  ]
+}
